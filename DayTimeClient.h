@@ -3,8 +3,8 @@ Programmer: Khaja Anwar Ali Siddiqui
 Title: Daytime Client-Server Model.
 ***************************************************************/
 
-#ifndef prog1_h
-#define prog1_h
+#ifndef DayTimeClient_h
+#define DayTimeClient_h
 
 #include<stdio.h>
 #include<sys\types.h>
