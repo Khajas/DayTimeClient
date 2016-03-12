@@ -2,7 +2,7 @@
 Programmer: Khaja Anwar Ali Siddiqui
 Title: Daytime Client-Server Model.
 ***************************************************************/
-#include"prog1.h"
+#include"DayTimeClient.h"
 int main(int argc, char *argv[]){
 	int sockfd, n;
 	char recvline[MAXLINE+1];
