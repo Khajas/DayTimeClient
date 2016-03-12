@@ -9,7 +9,7 @@ Title: Daytime Client-Server Model.
 #include<stdio.h>
 #include<sys\types.h>
 #include<winsoc2.h>
-//#include<sys\socket.h>
+#include<sys\socket.h>
 #include<strings.h>
 #include<unistd.h>
 #include<arpa/inet.h>
